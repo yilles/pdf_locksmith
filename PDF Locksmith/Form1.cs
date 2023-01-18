@@ -18,7 +18,7 @@ namespace PDF_Locksmith
         private string PDFPath = string.Empty;
         private int LockStatus = -1; //-1-Null, 0-Unlocked, 1-Protected, 2-Locked
         private Form2 fmPassword = new Form2();
-        private string Version = "1.0.0";
+        private string Version = "1.0.1";
         public Form1()
         {
             InitializeComponent();
